@@ -1,38 +1,34 @@
-# create-svelte
+## Welcome to my coding journey! <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+As a recent computer science graduate, I'm on a quest to explore the ever-evolving world of technology and create innovative solutions. The digital realm, to me, is a vast canvas waiting to be painted with lines of code.
 
-## Creating a project
+### 🌐 Skills & Interests: 
 
-If you're seeing this, you've probably already done this step. Congrats!
+I'm a true coding enthusiast, and my toolbox is filled with a diverse set of skills and interests: <br/>
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+```
+{
+ "Languages": ["Python", "JavaScript", "C", "Java", "SQL", "Bash"],
+ "Frameworks": ["React", "Redux", "Tailwind CSS", "NextJS"],
+ "Technologies": ["HTML5", "CSS3", "BootStrap5", "MySQL", "REST APIs", "Jest"],
+ "Tools": ["Linux", "Windows", "Microsoft Azure", "GitHub", "Firebase", "Prompt Design"]
+}
 ```
 
-## Developing
+### 💡 My Future Ambitions
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+I'm excited to continue my journey in the tech world, exploring new horizons in DevOps, cloud computing, and software development. I believe that every line of code I write is a step toward making the digital universe a better place.
 
-```bash
-npm run dev
+### 🌐 Let's Connect
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+I'm always up for a coding challenge, a great conversation, or collaboration on innovative projects. Feel free to connect with me. 
 
-## Building
+Also you can check out my other profiles: <br/>
+💻 Leetcode: https://leetcode.com/nidhiyashwanth/ <br/>
+📕 GitHub: https://github.com/nidhiyashwanth <br/>
+☁ Microsoft Learn: https://learn.microsoft.com/en-us/users/nidhiyashwanth/ <br/>
+🎓 freeCodeCamp: https://www.freecodecamp.org/nidhiyashwanth <br/>
 
-To create a production version of your app:
+**Stay updated with my journey by visiting https://linktr.ee/nidhiyashwanth, where you can find links to all my online profiles and projects.**
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Let's shape the future of tech together! 🌐
