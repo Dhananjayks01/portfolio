@@ -58,10 +58,10 @@
                 <p>Inspire Bubble is a thriving developer community for showcasing creativity and innovation. Built using <strong class="text-violet-400">Next.js, Tailwind CSS, Firebase, GraphQL, Grafbase!</strong> Next.js is a javascript framework, Tailwind is used for styling.</p>
             </Step>
             <Step step={steps[1]}>
-                <p>Urban Listing is a thriving developer community for showcasing creativity and innovation. Built using <strong class="text-violet-400">Next.js, Tailwind CSS, Firebase, GraphQL, Grafbase!</strong> Next.js is a javascript framework, Tailwind is used for styling.</p>
+                <p>Urban Listing is a full-stack web application built with <strong class="text-violet-400">React, Tailwind CSS</strong>, and <strong class="text-violet-400">Firebase</strong>. I designed a modern, user-friendly interface with responsive design for an engaging experience. Firebase powers user authentication and real-time database storage, and the application is deployed on Vercel. </p>
             </Step>
             <Step step={steps[2]}>
-                <p>College Shortlist Advice is a thriving developer community for showcasing creativity and innovation. Built using <strong class="text-violet-400">Next.js, Tailwind CSS, Firebase, GraphQL, Grafbase!</strong> Next.js is a javascript framework, Tailwind is used for styling.</p>
+                <p>College Shortlist Advice is designed to help students find colleges that match their financial situation and academic achievements. I created a user-friendly interface with interactive cards that display relevant college information.</p>
             </Step>
         </div>
     </section>
