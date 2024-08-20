@@ -38,7 +38,7 @@
     <section id="introPage" class="grid grid-cols-1 lg:grid-cols-2 gap-10 py-0 sm:py-14">
         <div class="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-0 lg:gap-10 ">
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
-                Hi! This is Nidhi<span class="poppins text-violet-400">Yashwanth</span><br/> Full Stack <span class="poppins text-violet-400">Developer</span>
+                Hi! This is <br/><span class="poppins text-violet-400">Dhananjay K S</span><br/> Full Stack <span class="poppins text-violet-400">Developer</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400">favourite tech</span> includes <span class="text-violet-400">Python, JavaScript, TypeScript, Next.js, React.js, MongoDB, Node.js, Express.js</span> and many more frameworks and tools I pickup while working.
@@ -49,7 +49,7 @@
             </a>
         </div>
         <div class="relative grid place-items-center">
-            <img src={"images/profilepic.png"} alt="Profile logo" class="object-cover z-[2] max-h-[70vh]"/>
+            <img src={"images/profilepic.jpg"} alt="Profile logo" class="object-cover z-[2] max-h-[70vh]"/>
         </div>
     </section>
     <section id="projects" class="py-20 lg:py-32 flex flex-col gap-24">
