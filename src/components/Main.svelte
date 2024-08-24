@@ -5,20 +5,20 @@
     let steps = [
         {
             name: 'Inspire Bubble',
-            icon: 'inspire-bubble.svg', // Update with the correct SVG filename
+            icon: 'inspire-bubble.svg', 
             href: 'https://inspire-bubble.vercel.app/',
             description: 'Inspire Bubble is a thriving developer community for showcasing creativity and innovation. Built using Next.js, Tailwind CSS, Firebase, GraphQL, Grafbase! Next.js is a javascript framework, Tailwind is used for styling.'
         },
         {
             name: 'Urban Listing',
-            icon: 'urban-listing.svg', // Update with the correct SVG filename
+            icon: 'urban-listing.svg', 
             href: 'https://urbanlisting.vercel.app/',
             description: 'Urban Listing is a full-stack web application built with React, Tailwind CSS, and Firebase. I designed a modern, user-friendly interface with responsive design for an engaging experience. Firebase powers user authentication and real-time database storage, and the application is deployed on Vercel.'
         },
         {
             name: 'College Shortlist Advice',
-            icon: 'college.svg', // Update with the correct SVG filename
-            href: 'https://nidhiyashwanth.github.io/College-Shortlist-Advice/',
+            icon: 'college.svg', 
+            href: 'https://nidhiyashwanth.github.io/College-Shortlist-Advice/', // Replace with Dhananjay's link if available
             description: 'College Shortlist Advice is designed to help students find colleges that match their financial situation and academic achievements. I created a user-friendly interface with interactive cards that display relevant college information.'
         }
     ];
@@ -43,7 +43,7 @@
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400">favourite tech</span> includes <span class="text-violet-400">Python, JavaScript, TypeScript, Next.js, React.js, MongoDB, Node.js, Express.js</span> and many more frameworks and tools I pickup while working.
             </p>
-            <a class="blueShadow mx-auto lg:mr-auto lg:ml-auto text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer" href="https://www.linkedin.com/in/nidhiyashwanth/" target="_blank">
+            <a class="blueShadow mx-auto lg:mr-auto lg:ml-auto text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer" href="https://www.linkedin.com/in/dhananjaya-ks-6257a9249" target="_blank">
                 <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"/>
                 <h4 class="relative z-9">Get in touch &rarr;</h4>
             </a>

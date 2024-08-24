@@ -12,7 +12,7 @@
     y>0? 'py-4 bg-slate-950 border-violet-950': 'py-6 bg-transparent border-transparent'
 ) + ' mt-2 sm:mt-0'}>
     <h1 class="font-mediun ">
-        Nidhi <b class="font-bold poppins">Yashwanth</b>
+        <b class="font-bold poppins">Dhananjay</b> <b class="font-bold poppins">K S</b>
     </h1>
     <div class="sm:flex ml-auto pr-4 items-center gap-4 hidden">
         {#each tabs as tab, index}

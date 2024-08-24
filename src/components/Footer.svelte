@@ -7,8 +7,8 @@
             <b class="pr-2">
                 GitHub
             </b>
-            <a class="text-violet-400" href="https://github.com/nidhiyashwanth" target="_blank">
-                nidhiyashwanth<sup>
+            <a class="text-violet-400" href="https://github.com/DhanuXworkz" target="_blank"> 
+                DhanuXworkz<sup>
                     <span class="text-xs scale-75 pl-0.5">
                         <i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]">
 
@@ -21,8 +21,8 @@
             <b class="pr-2">
                 LinkedIn
             </b>
-            <a class="text-violet-400" href="https://www.linkedin.com/in/nidhiyashwanth/" target="_blank">
-                nidhiyashwanth<sup>
+            <a class="text-violet-400" href="https://www.linkedin.com/in/dhananjaya-ks-6257a9249" target="_blank">
+                dhananjaya-ks<sup>
                     <span class="text-xs scale-75 pl-0.5">
                         <i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]">
 
@@ -30,20 +30,6 @@
                     </span>
                 </sup>
             </a>
-        </p>
-        <p>
-            <b class="pr-2">
-                Telegram
-            </b>
-            <a class="text-violet-400" href="https://t.me/nidhiyashwanth" target="_blank">
-                nidhiyashwanth<sup>
-                    <span class="text-xs scale-75 pl-0.5">
-                        <i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]">
-
-                        </i>
-                    </span>
-                </sup>
-            </a>
-        </p>
+        </p>        
     </div>
 </footer>
